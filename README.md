@@ -1,7 +1,7 @@
 ## Portfolio
 The 2nd iteration of My Personal Portfolio - created using ReactJS
 
-Visit Live: https://p32929.github.io/
+Visit Live: https://chetanagarwal11.github.io/
 
 # How to use
 ## Prerequisites
