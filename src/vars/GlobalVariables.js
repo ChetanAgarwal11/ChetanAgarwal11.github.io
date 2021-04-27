@@ -73,7 +73,7 @@ export const skills = [
             },
             {
                 title: 'Dart',
-                logo: "https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-icon.svg"
+                logo: "https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
             },
         ]
     },
@@ -114,7 +114,7 @@ export const skills = [
             },
             {
                 title: 'Flutter',
-                logo: 'https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg'
+                logo: 'https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg'
             },
         ]
     },
@@ -179,13 +179,13 @@ export const projects = [
         arr: [
             {
                 title: 'Whats App Clone',
-                logo: 'https://www.stickpng.com/img/icons-logos-emojis/tech-companies/whatsapp-ios-icon',
+                logo: 'https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg',
                 desc: 'A whats app clone using flutter',
                 link: 'https://github.com/ChetanAgarwal11/Whatsappclone_flutter'
             },
             {
                 title: 'Instagram Clone',
-                logo: 'https://www.stickpng.com/img/icons-logos-emojis/tech-companies/instagram-logo',
+                logo: 'https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg',
                 desc: 'Instagram clone using flutter',
                 link: 'https://github.com/ChetanAgarwal11/InstaClone_Flutter'
             },
