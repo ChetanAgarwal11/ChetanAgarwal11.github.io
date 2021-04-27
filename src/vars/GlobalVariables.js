@@ -71,7 +71,10 @@ export const skills = [
                 title: 'C#',
                 logo: "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
             },
-
+            {
+                title: 'Dart',
+                logo: "https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-icon.svg"
+            },
         ]
     },
     {
@@ -108,6 +111,10 @@ export const skills = [
             {
                 title: 'Firebase',
                 logo: 'https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg'
+            },
+            {
+                title: 'Flutter',
+                logo: 'https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg'
             },
         ]
     },
