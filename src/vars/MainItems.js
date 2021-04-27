@@ -33,7 +33,7 @@ export var myName = 'Chetan Agarwal'
 export var myOccupation = 'SDE-II at Planful'
 export var myDetails = 'Hello, I am Chetan Agarwal. I love Programming, making application/software for Mobile, Web. For me, A Computer or A Mobile phone is nothing but some plastics and metals. But when it understands my language, it feels like a miracle!\nI started programming from my 10th standard. Wrote my first few programs in Java. Later I learned C, C++, Java, JavaScript, C# etc, Worked in so many libraries & frameworks like ReactJS(one of my favorites), NodeJS, .NET Framework, worked using so many technologies like Git, etc. It does feel amazing to see myself improving. Hope to improve everything around me one day...'
 export var myImageLink = ""
-export var primaryColor = '#00C853';
+export var primaryColor = '#00B8D4';
 
 export const navItems = [
     "About",
