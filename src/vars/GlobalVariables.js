@@ -168,81 +168,20 @@ export const skills = [
 
 export const projects = [
     {
-        text: "Android Apps",
+        text: "Flutter Apps",
         arr: [
             {
-                title: 'Desplash',
-                logo: 'https://lh3.googleusercontent.com/ILrto9KguXlr-clbhYKUonpnHszgNp_N5Qvc8_u9QaM71oaqNKcYql2sV3sqZ7nqzsc=s180',
-                desc: 'Automatic Free High Quality Wallpapers powered by Unsplash.com',
-                link: 'https://play.google.com/store/apps/details?id=p32929.desplash'
+                title: 'Whats App Clone',
+                logo: 'https://www.stickpng.com/img/icons-logos-emojis/tech-companies/whatsapp-ios-icon',
+                desc: 'A whats app clone using flutter',
+                link: 'https://github.com/ChetanAgarwal11/Whatsappclone_flutter'
             },
             {
-                title: 'The Great Postman',
-                logo: 'https://lh3.googleusercontent.com/ni-lk3b2nTMZyC7r1wYBW6cm9eYqGAN-t6fXV-kD0lSyw1lO3kenC1We71fZjSryvFII=s180',
-                desc: 'Powerful, Lightweight REST API client for Android',
-                link: 'https://play.google.com/store/apps/details?id=p32929.greatpostman'
+                title: 'Instagram Clone',
+                logo: 'https://www.stickpng.com/img/icons-logos-emojis/tech-companies/instagram-logo',
+                desc: 'Instagram clone using flutter',
+                link: 'https://github.com/ChetanAgarwal11/InstaClone_Flutter'
             },
-            {
-                title: 'Sleepy - Addiction Remover',
-                logo: 'https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI=s180',
-                desc: 'The one and only EFFECTIVE addiction remover on Google Play store',
-                link: 'https://play.google.com/store/apps/details?id=p32929.lazyphone'
-            },
-            {
-                title: 'CGPA Calculator',
-                logo: 'https://lh3.googleusercontent.com/trpGkuBRWnBXNDNyts-7ePwmPtTLQ_8pKoMWi-6Iy8eBomjZ8XrVi4zQcEWrmoGLKA=s180',
-                desc: 'A simple yet effective CGPA Calculator for University students',
-                link: 'https://play.google.com/store/apps/details?id=p32929.cgpa_calculator'
-            },
-            {
-                title: 'Buy Sell BD',
-                logo: 'https://i.ibb.co/RSHT7z4/icon.png',
-                desc: 'A better & more reliable alternative for Bikroy.com - A marketplace app for buying-selling new/used goods',
-                link: 'https://play.google.com/store/apps/details?id=p32929.buysellbd'
-            },
-            {
-                title: 'ExIn',
-                logo: 'https://lh3.googleusercontent.com/X8mRJd7JajvDXoW7NaluKt2IvC3osH6czkTPoWeSYJ96U2LWLKT4xiFgvNouwf-UvEk=s180',
-                desc: 'A Simple & user friendly income-expense tracker ',
-                link: 'https://play.google.com/store/apps/details?id=p32929.exin'
-            },
-            {
-                title: 'ফিফা ওয়ার্ল্ডকাপ ২০১৮ - (Discontinued)',
-                logo: 'https://lh3.googleusercontent.com/zuluY4xOXx7PIMCvul4fowmOvMlc-3wsHwxGAASo3qZQ-9byd-uJWZ9kzUgclD4Nhrg=s180',
-                desc: 'FIFA Worldcup 2018 All In One ',
-                link: 'https://play.google.com/store/apps/details?id=p32929.worldcup2018'
-            },
-            {
-                title: 'I am free',
-                logo: 'https://lh3.googleusercontent.com/LIgX0ABT8z3MFILXFfrXK7vNO9j0hTxJ2aSdGwdcsdJUtViMWAsKXEiG65g94dV_i7JE=s180',
-                desc: 'বেকার মুক্ত বাংলাদেশ গড়ার লক্ষ্যে - I am FREE',
-                link: 'https://play.google.com/store/apps/details?id=p32929.imfree'
-            },
-            {
-                title: 'EasyGooglePlayDownloader',
-                logo: 'https://user-images.githubusercontent.com/6418354/56405936-8a807d80-6290-11e9-8bc3-9e7e1fd40e5d.png',
-                desc: 'A lightweight, user friendly APK downloader for Android - directly from Google Play',
-                link: 'https://github.com/p32929/EasyGooglePlayDownloader'
-            },
-            {
-                title: 'MyEyes',
-                logo: 'https://image.flaticon.com/icons/svg/1614/1614505.svg',
-                desc: 'Indoor Navigation App for Blind People',
-                link: ''
-            },
-            {
-                title: 'BirthdayBot',
-                logo: 'https://image.flaticon.com/icons/svg/415/415587.svg',
-                desc: 'Birthday wishing apps, made for individual people...',
-                link: ''
-            },
-            {
-                title: 'OurOfficeApp',
-                logo: 'https://image.flaticon.com/icons/svg/230/230338.svg',
-                desc: 'An Android client for managing our internal office tasks',
-                link: ''
-            },
-
         ]
     },
     {
@@ -252,189 +191,21 @@ export const projects = [
                 title: 'My Portfolio',
                 logo: 'https://image.flaticon.com/icons/svg/2762/2762575.svg',
                 desc: 'Created using ReactJS',
-                link: 'https://github.com/p32929/Portfolio'
-            },
-            {
-                title: 'My Portfolio V2',
-                logo: 'https://image.flaticon.com/icons/svg/2762/2762575.svg',
-                desc: 'V2 of my Portfolio - Created using ReactJS',
-                link: 'https://github.com/p32929/p32929.github.io'
-            },
-            {
-                title: 'IndecisionApp',
-                logo: 'https://image.flaticon.com/icons/svg/2762/2762575.svg',
-                desc: 'My first ReactJS app',
-                link: 'https://github.com/p32929/IndecisionApp'
-            },
-            {
-                title: 'Sha1ToMd5',
-                logo: 'https://image.flaticon.com/icons/svg/2762/2762575.svg',
-                desc: 'A simple utility tool to convert Google Play Release APK Sha1 value to MD5 for Facebook login to work.',
-                link: 'https://github.com/p32929/Sha1ToMd5'
+                link: 'https://github.com/ChetanAgarwal11/ChetanAgarwal11.github.io'
             },
         ]
     },
     {
-        text: "Android Libraries",
+        text: "React Native Apps",
         arr: [
             {
-                title: 'AndroidEasySQL-Library',
-                logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg',
-                desc: 'An Easier & Lazier approach to SQL database for Android',
-                link: 'https://github.com/p32929/AndroidEasySQL-Library'
+                title: 'Shop Manager',
+                logo: 'https://www.stickpng.com/img/objects/shopping-carts/full-shopping-cart',
+                desc: 'App to manager inventory and bills',
+                link: 'https://play.google.com/store/apps/details?id=com.shopmanager'
             },
-            {
-                title: 'FayazPermissions',
-                logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg',
-                desc: 'An Easier & Lazier approach to getting runtime permission in Android ',
-                link: 'https://github.com/p32929/FayazPermissions'
-            },
-            {
-                title: 'AndroidAppLockscreen',
-                logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg',
-                desc: 'An Easier & Lazier approach to getting runtime permission in Android ',
-                link: 'https://github.com/p32929/AndroidAppLockscreen'
-            },
-            {
-                title: 'ManufacturerBatteryOptimization',
-                logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg',
-                desc: 'Simple helper class for Android Battery Optimization ignoring in some devices',
-                link: 'https://gist.github.com/p32929/41e7af650f6a2c11e9306ab600fb9b03'
-            },
-            {
-                title: 'MyHouseAdsAndroid',
-                logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg',
-                desc: 'A library for cross promoting own apps within own apps - for Android',
-                link: 'https://github.com/p32929/MyHouseAdsAndroid'
-            },
-            {
-                title: 'HouseAds2',
-                logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg',
-                desc: 'A library ( V2 ) for cross promoting own apps within own apps - for Android',
-                link: 'https://github.com/p32929/HouseAds2'
-            },
-            {
-                title: 'AndroidAppUpdater',
-                logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg',
-                desc: 'A simple, Lightweight App Updater Library for Android',
-                link: 'https://github.com/p32929/AndroidAppUpdater'
-            },
-            {
-                title: 'OfficeAbout',
-                logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg',
-                desc: 'A simple about screen library for Android for a Team of people',
-                link: 'https://github.com/p32929/OfficeAbout'
-            },
-            {
-                title: 'JsonViewerAndroid',
-                logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg',
-                desc: 'A simple JSON Viewer for Android',
-                link: 'https://github.com/p32929/JsonViewerAndroid'
-            },
-            {
-                title: 'Android-Receivers-Library',
-                logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg',
-                desc: 'A library for simpler BroadcastReceiver implementations',
-                link: 'https://github.com/p32929/Android-Receivers-Library'
-            },
-
         ]
     },
-    {
-        text: "Others",
-        arr: [
-            {
-                title: 'CGPA_Calculator',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'CGPA Calculator made using C',
-                link: 'https://github.com/p32929/CGPA_Calculator'
-            },
-            {
-                title: 'PersonalDiary',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'A personal diary writer created using C',
-                link: 'https://github.com/p32929/PersonalDiary'
-            },
-            {
-                title: 'PaGeHe',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'Password generators created using C++',
-                link: 'https://github.com/p32929/PaGeHe'
-            },
-            {
-                title: 'MathBlitz',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'Simple math game created using C',
-                link: 'https://github.com/p32929/MathBlitz'
-            },
-            {
-                title: 'PaGeHa',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'Password generator created using C',
-                link: 'https://github.com/p32929/PaGeHa'
-            },
-            {
-                title: 'TicTacToe',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'A TicTacToe game made using C ',
-                link: 'https://github.com/p32929/TicTacToe'
-            },
-            {
-                title: 'Server_up_down_checker_and_notifier',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'Server up-down checker created using python',
-                link: 'https://github.com/p32929/MyPython3Scripts/blob/master/Server_up_down_checker_and_notifier.py'
-            },
-            {
-                title: '.gitignore',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'A collection of gitignore files that I use',
-                link: 'https://github.com/p32929/.gitignore'
-            },
-            {
-                title: 'ReactHtmlBoilerplate',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'A boilerplate for normal ReactJS and HTML',
-                link: 'https://github.com/p32929/ReactHtmlBoilerplate'
-            },
-            {
-                title: 'electron-cra-boilerplate',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'A boilerplate for Electron + Create React App',
-                link: 'https://github.com/p32929/electron-cra-boilerplate'
-            },
-            {
-                title: 'NodeJS_Express_MongoDB_OAuth2_Boilerplate',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'A boilerplate for NodeJS, Express, MongoDB, OAuth2',
-                link: 'https://github.com/p32929/NodeJS_Express_MongoDB_OAuth2_Boilerplate'
-            },
-            {
-                title: 'flutter_state_management_test',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'A state management demo for Flutter',
-                link: 'https://github.com/p32929/flutter_state_management_test'
-            },
-            {
-                title: 'ReduxCounter',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'A demo for ReactJS and Redux',
-                link: 'https://github.com/p32929/ReduxCounter'
-            },
-            {
-                title: 'React-Materialui-Boilerplate',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'A boilerplate for ReactJS + materialUI',
-                link: 'https://github.com/p32929/React-Materialui-Boilerplate'
-            },
-            {
-                title: 'UVA_Solutions',
-                logo: 'https://image.flaticon.com/icons/svg/1867/1867817.svg',
-                desc: 'Some UVA solutions',
-                link: 'https://github.com/p32929/UVA_Solutions'
-            },
-        ]
-    }
 ]
 
 export const contactInfos = [
