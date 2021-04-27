@@ -73,7 +73,7 @@ export const skills = [
             },
             {
                 title: 'Dart',
-                logo: "https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-icon.svg"
+                logo: "https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
             },
         ]
     },
@@ -114,7 +114,7 @@ export const skills = [
             },
             {
                 title: 'Flutter',
-                logo: 'https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg'
+                logo: 'https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg'
             },
         ]
     },
@@ -207,7 +207,7 @@ export const projects = [
         arr: [
             {
                 title: 'Shop Manager',
-                logo: 'https://www.stickpng.com/img/objects/shopping-carts/full-shopping-cart',
+                logo: 'https://play-lh.googleusercontent.com/zxMgIYqZNYAVz6P9NLSVoL6qA7pBXnHDq9m158UtciQD8bttBYl49-DMbXreEeDElg=s180-rw',
                 desc: 'App to manager inventory and bills',
                 link: 'https://play.google.com/store/apps/details?id=com.shopmanager'
             },
