@@ -191,19 +191,19 @@ export const projects = [
             },
             {
                 title: 'Battery Full',
-                logo: 'https://www.stickpng.com/img/electronics/batteries/charged-battery',
+                logo: 'https://png.pngtree.com/png-clipart/20190904/original/pngtree-flat-battery-png-image_4468344.jpg',
                 desc: 'Alarm when phone\'s battery is full',
                 link: 'https://github.com/ChetanAgarwal11/BatteryFull'
             },
             {
                 title: 'BMI Calculator',
-                logo: 'https://www.stickpng.com/img/objects/office/scientific-calculator-clipart',
+                logo: 'https://png.pngtree.com/png-clipart/20190906/original/pngtree-hand-drawn-black-calculator-illustration-png-image_4552458.jpg',
                 desc: 'BMi calculator with kg and ft &inch',
                 link: 'https://github.com/ChetanAgarwal11/BMICalculator'
             },
             {
                 title: 'Movies',
-                logo: 'https://www.stickpng.com/img/miscellaneous/at-the-movies/clapperboard-and-movie-strip',
+                logo: 'https://png.pngtree.com/png-clipart/20190611/original/pngtree-movie-clapper-film-camera-png-image_2497117.jpg',
                 desc: 'Movies app with clean UI',
                 link: 'https://github.com/ChetanAgarwal11/Movies'
             },
@@ -225,7 +225,7 @@ export const projects = [
         arr: [
             {
                 title: 'Shop Manager',
-                logo: 'https://www.stickpng.com/img/objects/shopping-carts/full-shopping-cart',
+                logo: 'https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-shop-icon-png-image_3762863.jpg',
                 desc: 'App to manager inventory and bills',
                 link: 'https://play.google.com/store/apps/details?id=com.shopmanager'
             },
