@@ -189,6 +189,24 @@ export const projects = [
                 desc: 'Instagram clone using flutter',
                 link: 'https://github.com/ChetanAgarwal11/InstaClone_Flutter'
             },
+            {
+                title: 'Battery Full',
+                logo: 'https://www.stickpng.com/img/electronics/batteries/charged-battery',
+                desc: 'Alarm when phone\'s battery is full',
+                link: 'https://github.com/ChetanAgarwal11/BatteryFull'
+            },
+            {
+                title: 'BMI Calculator',
+                logo: 'https://www.stickpng.com/img/objects/office/scientific-calculator-clipart',
+                desc: 'BMi calculator with kg and ft &inch',
+                link: 'https://github.com/ChetanAgarwal11/BMICalculator'
+            },
+            {
+                title: 'Movies',
+                logo: 'https://www.stickpng.com/img/miscellaneous/at-the-movies/clapperboard-and-movie-strip',
+                desc: 'Movies app with clean UI',
+                link: 'https://github.com/ChetanAgarwal11/Movies'
+            },
         ]
     },
     {
